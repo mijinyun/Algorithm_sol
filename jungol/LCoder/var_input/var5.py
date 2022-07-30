@@ -1,2 +1,2 @@
-input1=input("School?")
-print("Your school is", input1, ".")
+a=input("School?")
+print("Your school is %s."%a)
