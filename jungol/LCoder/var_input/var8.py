@@ -1,0 +1,6 @@
+a = input()
+b = input()
+c = input()
+print("%s"%a)
+print("%s"%b)
+print("%s"%c)
